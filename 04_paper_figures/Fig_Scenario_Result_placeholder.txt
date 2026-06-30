@@ -1,0 +1,2 @@
+Scenario result figure placeholder. Generated scenario figures are exported to 03_outputs/figures/.
+

@@ -1,0 +1,6 @@
+scenario,description,waste_growth_rate_per_year,treatment_improvement_rate,diversion_improvement_rate,residual_restriction_rate
+S0_BAU,Current condition without additional intervention,0,0,0,0
+S1_Increased_Waste_Generation,Higher waste generation due to growth factor,0.10,0,0,0
+S2_Improved_Organic_Treatment,Improved treatment capacity and effectiveness,0,0.20,0,0
+S3_Residual_Waste_Restriction,Restriction policy on residual waste disposal,0,0,0,0.20
+S4_Combined_Intervention,Combination of growth treatment diversion and residual restriction,0.10,0.20,0.10,0.20
