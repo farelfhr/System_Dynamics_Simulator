@@ -1,0 +1,11 @@
+parameter,value,unit,description
+risk_index_arithmetic,8197.261,index,Weighted arithmetic risk index
+risk_index_geometric,7735.288,index,Weighted geometric risk index
+risk_category,Very High,-,Final risk category
+bod,438,mg/L,Leachate BOD
+cod,774,mg/L,Leachate COD
+tss,42,mg/L,Leachate TSS
+ph,8.4,-,Leachate pH
+capacity_operational_load_weight,519.038,weight,Fuzzy AHP criteria weight
+waste_characteristics_weight,173.028,weight,Fuzzy AHP criteria weight
+leachate_quality_weight,307.933,weight,Fuzzy AHP criteria weight

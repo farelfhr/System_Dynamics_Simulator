@@ -1,0 +1,13 @@
+parameter,value,unit,description
+initial_incoming_waste_tpd,29.0,ton/day,Daily incoming waste to landfill
+initial_treatment_capacity_tpd,15.0,ton/day,Actual daily treatment capacity
+initial_residual_waste_tpd,13.0,ton/day,Residual waste disposed to landfill
+initial_diverted_waste_tpd,1.0,ton/day,Derived from IW - TW - RW
+organic_waste_tpd,9.16,ton/day,Organic waste fraction in daily incoming waste
+inorganic_waste_tpd,19.11,ton/day,Inorganic waste fraction in daily incoming waste
+initial_accumulated_waste_ton,421000.0,ton,Initial used or accumulated landfill load
+total_landfill_capacity_ton,421000.0,ton,Use verified capacity if available
+remaining_capacity_ton,0.0,ton,Reported remaining capacity or overload status
+waste_pile_height_m,8.0,m,Average waste pile height
+time_step_day,1.0,day,Simulation time step
+simulation_horizon_year,10.0,year,Simulation horizon

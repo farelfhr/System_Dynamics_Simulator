@@ -1,0 +1,5 @@
+tested_parameter,min_final_nll_tpd,max_final_nll_tpd,min_final_overload_accumulation_ton,max_final_overload_accumulation_ton,range_final_nll_tpd,range_overload_accumulation_ton
+waste_growth_rate_per_year,0.0,163.56035624959992,12065.485034602112,243090.7142063533,163.56035624959992,231025.22917175118
+treatment_improvement_rate,8.5,16.0,31025.0,58400.0,7.5,27375.0
+residual_restriction_rate,7.8,13.0,28469.99999995751,47450.0,5.2,18980.00000004249
+diversion_improvement_rate,12.7,13.2,46355.00000004249,48180.00000004249,0.5,1825.0

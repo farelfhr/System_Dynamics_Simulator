@@ -1,0 +1,6 @@
+scenario,description,waste_growth_rate_per_year,treatment_improvement_rate,diversion_improvement_rate,residual_restriction_rate,final_net_landfill_load_tpd,mean_net_landfill_load_tpd,final_accumulated_waste_ton,final_remaining_capacity_ton,final_overload_accumulation_ton,final_time_to_overload_year,first_overload_day,first_overload_year,total_landfill_load_ton
+S0_BAU,Current condition without additional intervention,0.0,0.0,0.0,0.0,13.0,13.0,468450.0,-47450.0,47450.0,0.0,1.0,0.0027397260273972603,47450.0
+S3_Residual_Waste_Restriction,Restriction policy on residual waste disposal,0.0,0.0,0.0,0.2,10.4,10.4,458960.000000085,-37960.00000008498,37960.00000008498,0.0,1.0,0.0027397260273972603,37960.0
+S4_Combined_Intervention,Combination of growth treatment diversion and residual restriction,0.1,0.2,0.1,0.2,44.89482507432005,23.519268728047646,506845.33085737337,-85845.33085737337,85845.33085737337,0.0,1.0,0.0027397260273972603,85845.3308573739
+S2_Improved_Organic_Treatment,Improved treatment capacity and effectiveness,0.0,0.2,0.0,0.0,10.0,10.0,457500.0,-36500.0,36500.0,0.0,1.0,0.0027397260273972603,36500.0
+S1_Increased_Waste_Generation,Higher waste generation due to growth factor,0.1,0.0,0.0,0.0,59.218531342900064,32.49908591005956,539621.6635717157,-118621.6635717157,118621.6635717157,0.0,1.0,0.0027397260273972603,118621.66357171739
